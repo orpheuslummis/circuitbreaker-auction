@@ -1,0 +1,8 @@
+[package]
+name = "circuitbreaker_auction"
+type = "bin"
+authors = [""]
+compiler_version = ">=0.22.0"
+
+[dependencies]
+#smt_bn254 = { git = "https://github.com/privacy-scaling-explorations", directory = "zk-kit/tree/main/packages/circuits/noir/crates/smt_bn254" }
