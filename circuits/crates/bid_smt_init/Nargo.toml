@@ -1,5 +1,5 @@
 [package]
-name = "bid_smt"
+name = "bid_smt_init"
 type = "bin"
 authors = ["workingdoge"]
 compiler_version = ">0.19.0"

@@ -1,0 +1,1 @@
+{"noir_version":"0.22.0+3fae4a03fded4e3f5065e7461c563f7e39745604","hash":9841872745555625111,"abi":{"parameters":[{"name":"root","type":{"kind":"field"},"visibility":"private"}],"param_witnesses":{"root":[{"start":1,"end":2}]},"return_type":null,"return_witnesses":[]},"bytecode":"H4sIAAAAAAAA/63OoREAAAgCQNgIN3D/qSxa1KZfuCNwEAAxVeeZujH+bYnt4yYAYY/zR9gAAAA="}
